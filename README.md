@@ -1,4 +1,4 @@
-### こんにちは, I am Anirudh!👋
+### 你好, I am Anirudh!👋
 
 
 - 🌱 I’m currently mastering TDD and Clean Architecture
