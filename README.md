@@ -9,7 +9,7 @@
 ### Tools & Technologies:
 <br />
 
-<img align="left" alt="Flutter"  src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" />
+<img align="left" alt="Flutter" width="30px" src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Firebase" width="35px" src="https://img.icons8.com/color/452/firebase.png" />
 <img align="left" alt="Django" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
