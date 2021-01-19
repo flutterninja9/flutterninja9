@@ -7,7 +7,6 @@
 - 📫 Reach me at : anirudhisgreat1200@gmail.com
 
 ### Tools & Technologies:
-<br />
 
 <img align="left"  width="35px"  />
 <img align="left" alt="Flutter" width="35px" src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4" />
