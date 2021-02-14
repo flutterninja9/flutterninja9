@@ -4,7 +4,7 @@
 - 🌱 I’m currently mastering TDD and Clean Architecture
 - 👯 Freelancer, Sometimes!
 - 🤔 I love creating digital content
-- 📫 Reach me at : anirudhisgreat1200@gmail.c
+- 📫 Reach me at : anirudhisgreat1200@gmail.com
 
 ### Tools & Technologies:
 
