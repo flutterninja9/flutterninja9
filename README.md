@@ -5,7 +5,7 @@
 - 👯 Freelancer, Sometimes!
 - 🤔 I love creating digital content
 - 💻 Wanna see my work, http://flutterninja9.github.io/
-- 📫 Reach me at : anirudhisgreat1200@gmail.co
+- 📫 Reach me at : anirudhisgreat1200@gmail.com
 
 ### Tools & Technologies:
 
