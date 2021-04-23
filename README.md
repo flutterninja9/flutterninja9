@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently mastering TDD and Clean Architecture
-- 👯 Freelancer, Sometimes
+- 👯 Freelancer, Sometimes!
 - 🤔 I love creating digital content
 - 💻 Wanna see my work, http://flutterninja9.github.io/
 - 📫 Reach me at : anirudhisgreat1200@gmail.com
