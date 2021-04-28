@@ -1,7 +1,7 @@
 ### 你好, I am Anirudh!👋
 
 
-- 🌱 I’m currently mastering TDD and Clean Architectur
+- 🌱 I’m currently mastering TDD and Clean Architecture
 - 👯 Freelancer, Sometimes!
 - 🤔 I love creating digital content
 - 💻 Wanna see my work, http://flutterninja9.github.io/
