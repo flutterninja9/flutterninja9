@@ -4,7 +4,7 @@
 - 🌱 I’m currently mastering Domain Driven Design
 - 👯 Freelancer, Sometimes!
 - 🤔 I love creating digital content
-- 💻 Wanna see my work, http://flutterninja9.github.io/
+- 💻 Wanna see my work, http://theflutterninja.me/
 - 📫 Reach me at : anirudhisgreat1200@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=flutterninja9&color=green)
