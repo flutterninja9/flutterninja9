@@ -1,7 +1,7 @@
 ### 你好, I am Anirudh!👋
 
 
-- 🌱 I’m currently mastering Domain Driven Design
+- 🌱 I’m currently learning Kotlin
 - 👯 Freelancer, Sometimes!
 - 🤔 I love creating digital content
 - 💻 Wanna see my work, http://theflutterninja.me/
