@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning Kotlin
-- 👯 Freelancer, Sometimes!
+- 👯 Experimenting with various app architectures in Flutter
 - 🤔 I love creating digital content
 - 💻 Wanna see my work, http://theflutterninja.me/
 - 📫 Reach me at : anirudhisgreat1200@gmail.com
