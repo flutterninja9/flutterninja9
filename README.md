@@ -23,6 +23,7 @@
 
 ## My Stats
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=flutterninja9&theme=onedark)](https://github.com/flutterninja9/)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=flutterninja9&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
