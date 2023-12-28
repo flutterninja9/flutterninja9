@@ -1,8 +1,8 @@
 ### 你好, I am Anirudh!👋
 
 
-- 🌱 I’m currently learning Kotlin
-- 👯 Experimenting with various app architectures in Flutter
+- 🌱 I’m currently learning GoLang
+- 👯 Experimenting with Microservice Architecture with GoLang
 - 🤔 I love creating digital content
 - 💻 Wanna see my work, http://theflutterninja.me/
 - 📫 Reach me at : anirudhisgreat1200@gmail.com
